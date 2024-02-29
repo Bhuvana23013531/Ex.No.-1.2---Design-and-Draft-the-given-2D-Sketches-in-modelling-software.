@@ -1,5 +1,9 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
+## NAME: BHUVANESHWARI M
+## REGISTER NUMBER: 212223230033
+## DEPARTMENT: AI&DS
+
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -36,7 +40,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![Screenshot 2024-02-29 154527](https://github.com/Bhuvana23013531/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147125678/8f393028-60db-466c-a9c2-a97ecda30acf)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
